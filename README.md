@@ -1,6 +1,5 @@
-![NightOwl Logo](docs/Finally_NightOwlc2_Banner.png)
-
 # NightOwl 🦉
+![NightOwl Logo](docs/Finally_NightOwlc2_Banner.png)
 
 ## Projeto de Comando e Controle (C2)
 
