@@ -1,3 +1,4 @@
+![NightOwl Logo](docs/Finally_NightOwlc2_Banner.png)
 
 # NightOwl 🦉
 
